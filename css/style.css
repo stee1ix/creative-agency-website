@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
 :root {
 	--primary-color: #f60f20;
 	--secondary-color: #1b206e;
@@ -12,7 +14,7 @@
 
 html,
 body {
-	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-family: "Poppins", sans-serif;
 	color: #111;
 }
 
